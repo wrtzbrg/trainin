@@ -1,6 +1,6 @@
 #include<iostream>
 
-bool rt_true(){return true}
+bool rt_true(){return true; }
 
 int rt_zero (){ return 0; }
 
